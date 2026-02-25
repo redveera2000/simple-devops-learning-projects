@@ -1,7 +1,10 @@
 #!/bin/bash
 
 
+
 #this a test change
+
+# Divisions
 
 
 x = a+b
